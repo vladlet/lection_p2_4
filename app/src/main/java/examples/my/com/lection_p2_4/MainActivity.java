@@ -88,6 +88,10 @@ public class MainActivity extends AppCompatActivity {
 		TextView tvTimer = (TextView)findViewById(R.id.timer);
 		Timer timer = new Timer();
 		MyTimerTask timerTask = new MyTimerTask(tvTimer);
+
+		// Sinlge
+		// mTimer.schedule(mMyTimerTask, 1000);
+		// Repeate
 		timer.schedule(timerTask, 1000, 2000);
 
 

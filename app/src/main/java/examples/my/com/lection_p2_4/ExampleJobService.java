@@ -58,6 +58,6 @@ public class ExampleJobService extends JobService {
 		if (mDownloadArtworkTask != null) {
 			mDownloadArtworkTask.cancel(true);
 		}
-		return false;
+		return true;
 	}
 }
