@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_77f9c8cd71c431d96156caac133a2a0c0d2a8801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_726cd4c9792ce223f78c92835f9b627485e4d4f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e9e1ca6a0fe88ed9e5b1647754a42c7b7fb664a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_acfa5dba3d773a34fb1904e310fec5244a41b58e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fe1c799147364011865fc8ac5c59a7c6b684ce8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_bc847030be6d20f5822f8495b4dd2ed5607f11c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_92a1589a3378a70fc28cd0dc3d833f469027b87d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="670b1239b936d2fc2c5ede6092d66b02830e9809">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e18daf824735f5b127d4f37a79fdaed9ae08160d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/jobdispatcher-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ce51c8dc994d85398c08e83117f41a7dd3b495fe">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-jobdispatcher-release_e43d2123df5d621729d3b632e99454ec4c4b96a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_80748d25e33eeea90672ff7fd02502cd1b37a11f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d9c7a24b76a85d765f607dc547e5182905a29e16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05c539300642770d3f1df77d242079e233d572c4">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f24c086b808ab5af0f163954adf252c20ec287a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_7524fae1aaf01d786486384b0335b47f1ece8ed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_70c7a44f5b3bd7de85fb4cb106d7bb99a21a4c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/work/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_115e6b32bb31e2be422171a7c4181268abecd79f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9ed76115f93e3100f00ee93036f163a76695f746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_19467e7a59ffa104c17e59d89dc7097e0e869040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vlad/home/Lection_p2_4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/vlad/home/Lection_p2_4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2ff04b1aa408dac2b269b978a764fec35af96a98/classes.dex" />
+    </item>
+
+</items>
