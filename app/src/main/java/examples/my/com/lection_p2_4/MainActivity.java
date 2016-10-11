@@ -35,6 +35,12 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Locale;
+import java.util.Timer;
+import java.util.TimerTask;
+
 import static android.R.attr.button;
 import static android.net.ConnectivityManager.RESTRICT_BACKGROUND_STATUS_DISABLED;
 import static android.net.ConnectivityManager.RESTRICT_BACKGROUND_STATUS_ENABLED;
@@ -47,12 +53,43 @@ public class MainActivity extends AppCompatActivity {
 	private DataSaverChangedBroadcastReceiver dataSaverChangedBroadcastReceiver = new DataSaverChangedBroadcastReceiver();
 	TextView text;
 
+	class MyTimerTask extends TimerTask {
+		TextView out;
+
+		public MyTimerTask(TextView text) {
+			out = text;
+		}
+
+		@Override
+		public void run() {
+			Calendar calendar = Calendar.getInstance();
+			SimpleDateFormat simpleDateFormat = new SimpleDateFormat(
+					"dd:MMMM:yyyy HH:mm:ss a", Locale.getDefault());
+			final String strDate = simpleDateFormat.format(calendar.getTime());
+
+			runOnUiThread(new Runnable() {
+
+				@Override
+				public void run() {
+					out.setText(strDate);
+				}
+			});
+		}
+	}
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
 		text = (TextView)findViewById(R.id.main_text);
+
+
+		TextView tvTimer = (TextView)findViewById(R.id.timer);
+		Timer timer = new Timer();
+		MyTimerTask timerTask = new MyTimerTask(tvTimer);
+		timer.schedule(timerTask, 1000, 2000);
+
 
 		//TODO: FireBase
 		//Driver myDriver = new GooglePlayDriver(this);
